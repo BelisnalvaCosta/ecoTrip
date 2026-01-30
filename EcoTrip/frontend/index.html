@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>EcoTrip</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <h1>EcoTrip</h1>
+
+  <form id="form">
+    <input type="number" id="distance" placeholder="Distância (km)" required>
+    <input type="number" id="passengers" placeholder="Passageiros" value="1" min="1">
+    <select id="transport">
+      <option value="car">Carro</option>
+      <option value="bus">Ônibus</option>
+      <option value="plane">Avião</option>
+    </select>
+    <button>Calcular</button>
+  </form>
+
+  <div id="result"></div>
+
+  <script src="js/app.js"></script>
+</body>
+</html>
