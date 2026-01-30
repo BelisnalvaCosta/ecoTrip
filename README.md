@@ -1,4 +1,4 @@
-# EcoTrip 🌱
+# EcoTrip 🌱 [^1]
 
 **EcoTrip** é uma pequena aplicação que calcula a emissão de CO₂ de viagens com base na distância, tipo de transporte e número de passageiros. A interface é simples (frontend estático) e o backend fornece uma API REST em **Node.js + Express** e grava os registros em **SQLite**.
 
