@@ -91,4 +91,4 @@ O backend usa SQLite e cria `ecotrip.db` automaticamente na raiz do backend. A t
 
 PRs são bem-vindas! Sinta-se à vontade para abrir issues ou sugerir melhorias (ex.: melhorar UX, adicionar testes, adicionar autenticação, etc.).
 
-[^1]: Projeto simple com base nas aulas do Expert Pablo Lopes (DIO). Projeto ainda pode ser melhorias.
+[^1]: Projeto simples com base nas aulas do Expert Pablo Lopes (DIO). Projeto ainda pode ser melhorado no Frontend.
